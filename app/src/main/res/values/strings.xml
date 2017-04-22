@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Galleries</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="category_buildings">Buildings</string>
+    <string name="category_food_and_drinks">Foods &amp; Drinks</string>
+    <string name="category_nature">Nature</string>
+    <string name="category_people">People</string>
+    <string name="category_technology">Technology</string>
+    <string name="category_objects">Objects</string>
+
+    <string name="title_activity_profile">ProfileActivity</string>
+
+    <string name="photo_by">Photo by</string>
+
+</resources>

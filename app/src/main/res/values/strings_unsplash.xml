@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unsplash_app_id">Client-ID 06d495208acc64c29a3104e270e1b67e72373aa1ed9f7e20bd91cc9da8653ada</string>
+    <string name="unsplash_secret">12cc26dfe15d67b00862d10f24d02326c36b3d06add4a2d139c8ecc7f2ffc7d6</string>
+</resources>
